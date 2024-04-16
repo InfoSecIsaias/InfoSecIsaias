@@ -4,8 +4,6 @@
 
 - <b>Azure/Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/InfoSecIsaias/Azure-SOC)
-- <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 
 
 
