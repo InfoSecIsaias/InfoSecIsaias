@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isaias! <br/><a href="https://github.com/InfoSecIsaias">Programmer</a>, <a href="https://www.linkedin.com/in/isaias-gastelo/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Isaias! <br/><a href="https://github.com/InfoSecIsaias">Desktop Support Specialist</a>, <a href="https://www.linkedin.com/in/isaias-gastelo/">Cybersecurity Professional</a>,
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
