@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isaias! Cybersecurity Professional and Desktop Support Specialist
+<h1>Hi, I'm Isaias! Cybersecurity Professional
 
 <h2>👨‍💻 My Projects </h2>
 
