@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Azure/Cloud Projects</b>
+  - [Creating a Live SOC/Honeynet in Azure]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/InfoSecIsaias/Azure-SOC)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
